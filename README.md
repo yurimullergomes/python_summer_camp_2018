@@ -7,7 +7,7 @@ Simple MLP classifier for particles in a specific detector (data set from LEP MC
 
 ## ABSTRACT
 
-Here I build a MLP classifier in order to look at detections made through 13 parameters and show if this particle is a electron, a muon, a tau, or a quark. We use tensorflow and Keras in this work and compare with sklearn MLP method. 
+Here I build a MLP classifier in order to look at detections made through 13 parameters and show if this particle is a electron, a muon, a tau, or a quark. It was build with Tensorflow/Keras and I also have compared with sklearn MLP method. 
 
 ## Results
 
