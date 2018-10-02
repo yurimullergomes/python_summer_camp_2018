@@ -11,8 +11,8 @@ Here I build a MLP classifier in order to look at detections made through 13 par
 
 ## Results
 
-
-[![ROC CURVE]( python_summer_camp_2018/git_python_camp_rocimg.png)]
+ROC CURVE 
+![ROC CURVE](https://user-images.githubusercontent.com/37218817/46362834-bcf5c080-c647-11e8-9452-85fa57503787.png)
 ```
 AUC parameter : Electron:0.7999474887646882+-5.187713678145928e-10
 
